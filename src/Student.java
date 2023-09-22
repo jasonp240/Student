@@ -8,7 +8,7 @@ public class Student {
     }
 
     public void introduce() {
-        System.out.println("Hello my name is " + name + "! and I am a student!");
+        System.out.println("Hello my name is " + name + " and I am a student!");
     }
 
     public void studentInfo() {
